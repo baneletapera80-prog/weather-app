@@ -9,7 +9,7 @@ A Flet weather app that uses the OpenWeatherMap API.
 - Celsius / Fahrenheit switch
 - Error messages for unknown cities
 
-## Run it
+## HOW To Run It
 1. Get a free key at openweathermap.org
 2. Copy `.env.example` to `.env` and add your key
 3. python -m venv .venv
